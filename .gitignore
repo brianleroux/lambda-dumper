@@ -1,0 +1,11 @@
+sam.yaml
+node_modules
+package-lock.json
+BeforeExitListener.js
+CallbackContext.js
+Errors.js
+InvokeContext.js
+LogPatch.js
+RAPIDClient.js
+Runtime.js
+UserFunction.js
